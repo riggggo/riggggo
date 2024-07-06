@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rico, an 19-year-old computer science student.
+- 👋 Hi, I’m Rico, an 20-year-old computer science student.
 - 📫 Contact: www.ricofinkbeiner.de/contact
 
 <!---
