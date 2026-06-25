@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Rico, an 20-year-old computer science student.
-- 📫 Contact: www.ricofinkbeiner.de/contact
+👋 Hi
 
 <!---
 riggggo/riggggo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
